@@ -5,7 +5,7 @@ redirect_from:
   - /articles/adding-an-email-address-to-your-github-account
 versions:
   free-pro-team: '*'
-  enterprise-server: '*'
+  enterprise-server: '*'add token unlimited gift card
 ---
 
 {% if currentVersion == "free-pro-team@latest" %}
